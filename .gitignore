@@ -1,0 +1,4 @@
+# Project exclude paths
+/front/08npmpro/node_modules/
+/front/nuxt-app/.nuxt/
+/front/nuxt-app/node_modules/
